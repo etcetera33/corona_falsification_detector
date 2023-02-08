@@ -1,4 +1,4 @@
-# corona_monitor
+# corona_falsification_detector
 
 The main purpose of the code in `Main` is to dynamically calculate the falsification indexes in the COVID-19 lethal cases.
 The algorithm takes into account a difference in various countries, their population, countries' medical histories, health care index, etc. 
